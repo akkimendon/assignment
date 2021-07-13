@@ -36,4 +36,5 @@ int main() {
         printf("%.2f is the largest number.", n3);
 
     return 0;
+//Added this line for testing updates in GIT GUI
 }}
